@@ -1,0 +1,1 @@
+[19-Nov-2017 22:20:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54

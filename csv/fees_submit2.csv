@@ -1,0 +1,6 @@
+id,student_id,fee_submit,datee,paid_by,pay_number
+1,3,40000,,cheque,6546545
+2,3,40000,,cash,
+3,3,10000,,cheque,48464
+4,2,10000,,cash,
+5,2,5000,,cheque,9876543210

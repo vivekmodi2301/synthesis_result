@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S. No.</b></td><td class=xl24 width=64 ><b>Roll No.</b></td><td class=xl24 width=64 ><b>Student Name</b></td><td class=xl24 width=64 ><b>Father Name</b></td><td class=xl24 width=64 ><b>Class</b></td><td class=xl24 width=64 ><b>Batch</b></td><td class=xl24 width=64 ><b>Class total Fees</b></td><td class=xl24 width=64 ><b>Fee discount</b></td><td class=xl24 width=64 ><b>Student total Fees</b></td><td class=xl24 width=64 ><b>Fee Deposit</b></td><td class=xl24 width=64 ><b>Fee Due</b></td><td class=xl24 width=64 ><b>Installment 1st</b></td><td class=xl24 width=64 ><b>Installment 2nd</b></td><td class=xl24 width=64 ><b>Installment 3rd</b></td><td class=xl24 width=64 ><b>Installment 4th</b></td><td class=xl24 width=64 ><b>Installment 5th</b></td><td class=xl24 width=64 ><b>Installment 6th</b></td><td class=xl24 width=64 ><b>Installment 7th</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >80005</td><td class=xl24 width=64 >Anam Suthar</td><td class=xl24 width=64 >Jethmal Suthar</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >23364</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >18364</td><td class=xl24 width=64 >5000(0)</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >80004</td><td class=xl24 width=64 >Garvit Choudhary</td><td class=xl24 width=64 >Sultan Singh Sunda</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >15960</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >80009</td><td class=xl24 width=64 >Kiran Solanki</td><td class=xl24 width=64 >Manoj Solanki</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >15960</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >80011</td><td class=xl24 width=64 >Meet Gattani</td><td class=xl24 width=64 >Mahendra Gattani</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >10960</td><td class=xl24 width=64 >15000(0)</td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >80002</td><td class=xl24 width=64 >Parth Khatri</td><td class=xl24 width=64 >Tilak Raj Khatri</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >15960</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >80012</td><td class=xl24 width=64 >Praveen Bishnoi</td><td class=xl24 width=64 >Jagdish Prasad Bishnoi</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >7000</td><td class=xl24 width=64 >18960</td><td class=xl24 width=64 >7000(0)</td></tr><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >80006</td><td class=xl24 width=64 >Rohit Suthar</td><td class=xl24 width=64 >Rajesh Suthar</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >15960</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >80010</td><td class=xl24 width=64 >Sanskriti Soni</td><td class=xl24 width=64 >Shri Ram Soni</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >16000</td><td class=xl24 width=64 >9960</td><td class=xl24 width=64 >16000(0)</td></tr><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >80001</td><td class=xl24 width=64 >Shubhi Gupta</td><td class=xl24 width=64 >Rajeev Gupta</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >19000</td><td class=xl24 width=64 >6960</td><td class=xl24 width=64 >16000(0)</td><td class=xl24 width=64 >3000(0)</td></tr><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >80008</td><td class=xl24 width=64 >Sunil Kumar Tard</td><td class=xl24 width=64 >Radheshyam Tard</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >10960</td><td class=xl24 width=64 >15000(0)</td></tr><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >80007</td><td class=xl24 width=64 >Tarun Singh Charan</td><td class=xl24 width=64 >Mahendra Dan Charan</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >15960</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >80003</td><td class=xl24 width=64 >Vinayak Khatri</td><td class=xl24 width=64 >Umesh Kumar Khatri</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >8th</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >25960</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >15960</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >90015</td><td class=xl24 width=64 >Ankita Jangu</td><td class=xl24 width=64 >Hanumanprasad Jangu</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >20680</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >90007</td><td class=xl24 width=64 >Avinash Bishnoi</td><td class=xl24 width=64 >Vijay Kumar</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >15680</td><td class=xl24 width=64 >15000(0)</td></tr><tr><td class=xl24 width=64 >15</td><td class=xl24 width=64 >90004</td><td class=xl24 width=64 >Deepansh Mehta</td><td class=xl24 width=64 >Dinesh Kumar Mehta</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >7000</td><td class=xl24 width=64 >23680</td><td class=xl24 width=64 >7000(0)</td></tr><tr><td class=xl24 width=64 >16</td><td class=xl24 width=64 >90002</td><td class=xl24 width=64 >Divyansha Pandey</td><td class=xl24 width=64 >Virendra Kumar Pandey</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >15680</td><td class=xl24 width=64 >15000(0)</td></tr><tr><td class=xl24 width=64 >17</td><td class=xl24 width=64 >90014</td><td class=xl24 width=64 >Garv  Charan</td><td class=xl24 width=64 >Om Prakash Charan</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >8000</td><td class=xl24 width=64 >22680</td><td class=xl24 width=64 >8000(0)</td></tr><tr><td class=xl24 width=64 >18</td><td class=xl24 width=64 >90001</td><td class=xl24 width=64 >Jalaj Gupta</td><td class=xl24 width=64 >Manoj Gupta</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >25680</td><td class=xl24 width=64 >5000(0)</td></tr><tr><td class=xl24 width=64 >19</td><td class=xl24 width=64 >90003</td><td class=xl24 width=64 >Parvpreet Singh</td><td class=xl24 width=64 >Jasvinder Singh</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >20000</td><td class=xl24 width=64 >10680</td><td class=xl24 width=64 >20000(0)</td></tr><tr><td class=xl24 width=64 >20</td><td class=xl24 width=64 >90011</td><td class=xl24 width=64 >Priyanshu Depavat</td><td class=xl24 width=64 >Kailash Dan Depawat</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >15680</td><td class=xl24 width=64 >15000(0)</td></tr><tr><td class=xl24 width=64 >21</td><td class=xl24 width=64 >90008</td><td class=xl24 width=64 >Raghvendra Singh</td><td class=xl24 width=64 >Ajeet Singh</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >20680</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >22</td><td class=xl24 width=64 >90009</td><td class=xl24 width=64 >Ravi Raj Charan</td><td class=xl24 width=64 >Prithvi Raj Charan</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >9th</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >30680</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >20680</td><td class=xl24 width=64 >10000(0)</td></tr><tr><td class=xl24 width=64 >23</td><td class=xl24 width=64 >10021</td><td class=xl24 width=64 >Pawan Sillu</td><td class=xl24 width=64 >Jagdish Sillu</td><td class=xl24 width=64 >10th</td><td class=xl24 width=64 >10th</td><td class=xl24 width=64 >33040</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >33040</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >23040</td><td class=xl24 width=64 >10000(0)</td></tr></table></body></html>

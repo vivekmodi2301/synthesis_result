@@ -1,0 +1,5 @@
+[31-Aug-2017 04:06:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Sep-2017 02:10:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[12-Sep-2017 01:22:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[13-Sep-2017 00:05:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Jan-2018 07:10:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54

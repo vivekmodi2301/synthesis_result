@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.shadow
+{
+	
+}
+
+.inquire
+{
+	 padding-left:10px;
+	 color:#DA251D;
+	 font-size:30px;
+	 
+}
+
+.content_page_heading
+{
+	background:#DA251D;
+	height:50px;
+	color:#fff;
+	font-size:18px;
+	font-family:"Century Gothic";
+}
+
+.text_setting
+{
+	text-align:center;
+	padding-left:50px;
+	color:#000;
+	font-size:16px;
+	font-family:"Century Gothic";
+}
+
+.text_setting_bold
+{
+	font-weight:bold;
+}
+
+.form_error_font
+{
+	 color:#900;
+	 font-weight:bold;
+}

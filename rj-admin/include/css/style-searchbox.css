@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.search-wrap input#_search{width:207px;background-color:#f8f8f8;border:none;font-size:10pt;float:right;color:#262626;padding:10px;padding-left:10px;-ms-transition:all .5s;transition:all .5s}
+
+.search-wrap input#_search:active,.search-wrap input#_search:focus{width:277px;outline:0}.search-wrap .icon{padding-top:10px;padding-left:10px;color:#4f5b66;border:none;position:absolute;left:0}
+
+.search-inside-wrap{vertical-align:middle;white-space:nowrap;position:relative}

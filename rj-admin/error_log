@@ -1,0 +1,576 @@
+[31-Jul-2017 04:02:46 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/syn/public_html/synthesis_result/rj-admin/include/php/config.php on line 18
+[31-Jul-2017 04:02:52 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/syn/public_html/synthesis_result/rj-admin/include/php/config.php on line 18
+[31-Jul-2017 22:49:10 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/syn/public_html/synthesis_result/rj-admin/include/php/config.php on line 18
+[31-Jul-2017 22:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/syn/public_html/synthesis_result/rj-admin/include/php/config.php on line 18
+[01-Aug-2017 00:08:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 77
+[01-Aug-2017 00:08:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 77
+[01-Aug-2017 00:09:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 77
+[01-Aug-2017 00:17:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 77
+[01-Aug-2017 01:08:10 America/Chicago] PHP Warning:  move_uploaded_file(include/images/logo/1501567690_logo_synthesis.png): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:08:10 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpG1juiK' to 'include/images/logo/1501567690_logo_synthesis.png' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:08:22 America/Chicago] PHP Warning:  move_uploaded_file(include/images/logo/1501567702_logo_synthesis.png): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:08:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpE0hDO8' to 'include/images/logo/1501567702_logo_synthesis.png' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:08:53 America/Chicago] PHP Warning:  move_uploaded_file(include/banner_image/1501567733_banner.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:08:53 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPCMTzq' to 'include/banner_image/1501567733_banner.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:12:27 America/Chicago] PHP Warning:  move_uploaded_file(include/images/logo/1501567947_Desert.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:12:27 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQx4V2c' to 'include/images/logo/1501567947_Desert.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:14:19 America/Chicago] PHP Warning:  move_uploaded_file(include/images/logo/1501568059_images.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:14:19 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5FDmSI' to 'include/images/logo/1501568059_images.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/general_settings.php on line 25
+[01-Aug-2017 01:28:06 America/Chicago] PHP Warning:  move_uploaded_file(include/banner_image/1501568886_banner.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:28:06 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiUwxum' to 'include/banner_image/1501568886_banner.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:51:44 America/Chicago] PHP Warning:  move_uploaded_file(include/banner_image/1501570304_banner.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:51:44 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplYX2ut' to 'include/banner_image/1501570304_banner.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:54:33 America/Chicago] PHP Warning:  move_uploaded_file(include/banner_image/1501570473_banner.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 01:54:33 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPX9BLG' to 'include/banner_image/1501570473_banner.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 02:04:50 America/Chicago] PHP Warning:  move_uploaded_file(include/banner_image/1501571090_banner.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 02:04:50 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLzE6Ni' to 'include/banner_image/1501571090_banner.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 02:05:10 America/Chicago] PHP Warning:  move_uploaded_file(include/banner_image/1501571110_Lighthouse.jpg): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[01-Aug-2017 02:05:10 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpScErV4' to 'include/banner_image/1501571110_Lighthouse.jpg' in /home/syn/public_html/synthesis_result/rj-admin/module/uis/banner.php on line 10
+[05-Aug-2017 22:41:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[05-Aug-2017 22:41:32 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 26
+[05-Aug-2017 22:41:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[05-Aug-2017 22:41:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 71
+[05-Aug-2017 22:41:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[07-Aug-2017 23:49:00 America/Chicago] PHP Warning:  Unterminated comment starting line 4 in /home/syn/public_html/synthesis_result/rj-admin/module/login/login_redirect.php on line 4
+[07-Aug-2017 23:50:06 America/Chicago] PHP Warning:  Unterminated comment starting line 4 in /home/syn/public_html/synthesis_result/rj-admin/module/login/login_redirect.php on line 4
+[08-Aug-2017 22:31:00 America/Chicago] PHP Warning:  include(module/profile/csv_profile.php): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/index.php on line 32
+[08-Aug-2017 22:31:00 America/Chicago] PHP Warning:  include(module/profile/csv_profile.php): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/index.php on line 32
+[08-Aug-2017 22:31:00 America/Chicago] PHP Warning:  include(): Failed opening 'module/profile/csv_profile.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/syn/public_html/synthesis_result/rj-admin/index.php on line 32
+[08-Aug-2017 22:35:18 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/syn/public_html/synthesis_result/rj-admin/module/profile/see_all_profile.php on line 42
+[08-Aug-2017 22:44:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[08-Aug-2017 22:44:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 71
+[08-Aug-2017 22:44:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[08-Aug-2017 22:45:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 71
+[08-Aug-2017 22:46:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 71
+[08-Aug-2017 22:48:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[08-Aug-2017 22:48:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[09-Aug-2017 01:16:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:20:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:26:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:37:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:42:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:44:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:44:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:46:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:48:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:51:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 01:58:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 02:28:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 02:31:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 02:33:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 03:16:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 08:42:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 08:44:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 22:17:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:20:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:22:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:25:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:30:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'bot.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'zoo.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'g.k.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:14 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'bot.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'zoo.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'g.k.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'bot.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'zoo.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'g.k.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:34:23 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[09-Aug-2017 22:40:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:42:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:42:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 22:42:53 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 13
+[09-Aug-2017 22:42:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 22:42:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[09-Aug-2017 22:45:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 23:30:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 23:36:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 23:38:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 23:39:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[09-Aug-2017 23:43:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset 'bot.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset 'zoo.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:11:17 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset 'bot.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset 'zoo.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:16:11 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 40
+[10-Aug-2017 00:48:53 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 79
+[10-Aug-2017 00:55:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 00:55:20 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 26
+[10-Aug-2017 00:55:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Aug-2017 00:55:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 73
+[10-Aug-2017 00:55:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 89
+[10-Aug-2017 01:01:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 01:01:59 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 26
+[10-Aug-2017 01:01:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Aug-2017 01:01:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 73
+[10-Aug-2017 01:01:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 89
+[10-Aug-2017 01:03:55 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 18
+[10-Aug-2017 01:07:49 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 25
+[10-Aug-2017 01:50:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 01:59:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 02:41:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[10-Aug-2017 02:47:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[12-Aug-2017 00:27:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[12-Aug-2017 00:27:43 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 36
+[12-Aug-2017 00:27:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[12-Aug-2017 00:27:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 83
+[12-Aug-2017 00:27:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 99
+[12-Aug-2017 00:35:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[12-Aug-2017 00:35:36 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 36
+[12-Aug-2017 00:35:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[12-Aug-2017 00:35:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 83
+[12-Aug-2017 00:35:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 99
+[12-Aug-2017 01:46:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[12-Aug-2017 01:46:22 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 36
+[12-Aug-2017 01:46:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[12-Aug-2017 01:46:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 85
+[12-Aug-2017 01:46:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 101
+[12-Aug-2017 01:51:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[12-Aug-2017 01:51:23 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 36
+[12-Aug-2017 01:51:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[12-Aug-2017 01:51:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 85
+[12-Aug-2017 01:51:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 101
+[12-Aug-2017 02:15:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 30
+[12-Aug-2017 02:16:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 87
+[12-Aug-2017 02:16:12 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 91
+[12-Aug-2017 02:16:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 101
+[12-Aug-2017 02:16:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 117
+[12-Aug-2017 02:17:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 87
+[12-Aug-2017 02:17:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 91
+[12-Aug-2017 02:17:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 101
+[12-Aug-2017 02:17:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 117
+[12-Aug-2017 02:18:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:18:13 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:18:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:18:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[12-Aug-2017 02:20:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:20:30 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:20:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:20:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[12-Aug-2017 02:20:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:20:45 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:20:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:20:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[12-Aug-2017 02:21:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:21:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:21:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:21:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[12-Aug-2017 02:24:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/see_spr.php on line 29
+[12-Aug-2017 02:25:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:25:13 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:25:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:25:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[12-Aug-2017 02:26:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:26:24 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:26:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:26:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[12-Aug-2017 02:26:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[12-Aug-2017 02:26:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[12-Aug-2017 02:26:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[12-Aug-2017 02:26:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[16-Aug-2017 01:15:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 01:56:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:10:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:14:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:16:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:33:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:36:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:38:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:42:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[16-Aug-2017 02:46:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 62
+[24-Aug-2017 00:18:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 00:18:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 00:19:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 00:19:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 00:25:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 00:25:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:44:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 23:44:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:46:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 23:46:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:49:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 23:49:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:49:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 23:49:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:51:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[24-Aug-2017 23:51:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:52:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[24-Aug-2017 23:52:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[25-Aug-2017 00:41:59 America/Chicago] PHP Warning:  Illegal string offset 'student' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 54
+[25-Aug-2017 00:41:59 America/Chicago] PHP Warning:  Illegal string offset 'class' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 60
+[25-Aug-2017 00:41:59 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 66
+[25-Aug-2017 00:41:59 America/Chicago] PHP Warning:  Illegal string offset 'total_fees' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 72
+[25-Aug-2017 00:41:59 America/Chicago] PHP Warning:  Illegal string offset 'fee_disc' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 78
+[25-Aug-2017 00:42:19 America/Chicago] PHP Warning:  Illegal string offset 'student' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 54
+[25-Aug-2017 00:42:19 America/Chicago] PHP Warning:  Illegal string offset 'class' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 60
+[25-Aug-2017 00:42:19 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 66
+[25-Aug-2017 00:42:19 America/Chicago] PHP Warning:  Illegal string offset 'total_fees' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 72
+[25-Aug-2017 00:42:19 America/Chicago] PHP Warning:  Illegal string offset 'fee_disc' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/edit_fee.php on line 78
+[26-Aug-2017 03:58:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[26-Aug-2017 04:05:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 22:13:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 22:19:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 22:22:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 22:28:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 22:31:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 22:34:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Aug-2017 23:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ',' or ';' in /home/syn/public_html/synthesis_result/rj-admin/module/profile/edit_profile.php on line 248
+[28-Aug-2017 00:20:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 00:24:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 00:59:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 01:03:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 01:07:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 01:18:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 01:21:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 01:23:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 02:13:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:13:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 02:13:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:13:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 02:14:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[28-Aug-2017 02:19:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:19:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 02:22:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:23:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 02:25:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 119
+[28-Aug-2017 02:28:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$rs' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 113
+[28-Aug-2017 02:29:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 02:29:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 02:30:29 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:30:29 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:32:00 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:32:00 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:33:28 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:33:28 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:33:29 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:33:30 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 132
+[28-Aug-2017 02:37:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[28-Aug-2017 02:40:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 65
+[28-Aug-2017 02:41:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 68
+[28-Aug-2017 02:43:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[28-Aug-2017 02:45:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 69
+[28-Aug-2017 02:46:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[28-Aug-2017 02:49:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$totRslt' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 02:49:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$totRslt' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 02:54:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$totRslt' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 02:54:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:55:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:55:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 02:56:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 02:56:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 03:03:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 03:03:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 03:10:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'implode' (T_STRING) in /home/syn/public_html/synthesis_result/rj-admin/module/pattern/add_pattern.php on line 6
+[28-Aug-2017 03:11:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$patt' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/pattern/add_pattern.php on line 9
+[28-Aug-2017 03:19:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 03:19:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[28-Aug-2017 03:20:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 03:23:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 88
+[28-Aug-2017 03:23:29 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 92
+[28-Aug-2017 03:23:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 102
+[28-Aug-2017 03:24:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[28-Aug-2017 03:24:28 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 103
+[28-Aug-2017 03:24:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 104
+[28-Aug-2017 03:24:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 120
+[28-Aug-2017 03:28:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 104
+[28-Aug-2017 03:28:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 120
+[28-Aug-2017 04:26:56 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 125
+[01-Sep-2017 06:25:55 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 70
+[01-Sep-2017 06:26:27 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 70
+[01-Sep-2017 06:28:20 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 70
+[01-Sep-2017 06:29:01 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 70
+[01-Sep-2017 06:30:34 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 70
+[01-Sep-2017 06:31:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 153
+[01-Sep-2017 06:38:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 59
+[01-Sep-2017 06:41:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 59
+[01-Sep-2017 06:41:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 194
+[01-Sep-2017 06:45:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 59
+[01-Sep-2017 06:48:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 59
+[01-Sep-2017 06:51:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 196
+[01-Sep-2017 06:57:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 197
+[01-Sep-2017 06:58:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 199
+[01-Sep-2017 07:13:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 199
+[01-Sep-2017 07:14:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 202
+[01-Sep-2017 07:14:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 203
+[10-Sep-2017 23:41:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:42:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:50:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:50:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:54:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:55:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:57:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:58:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[10-Sep-2017 23:58:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[10-Sep-2017 23:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[10-Sep-2017 23:59:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[11-Sep-2017 00:01:09 America/Chicago] PHP Warning:  Illegal string offset 'tname' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 60
+[11-Sep-2017 00:01:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[11-Sep-2017 00:01:29 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 60
+[11-Sep-2017 00:02:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$edate' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 60
+[11-Sep-2017 00:02:45 America/Chicago] PHP Warning:  Illegal string offset 'tname' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 59
+[11-Sep-2017 00:02:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[11-Sep-2017 00:03:21 America/Chicago] PHP Warning:  Illegal string offset 'tname' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 60
+[11-Sep-2017 00:03:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[11-Sep-2017 00:37:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[11-Sep-2017 04:22:28 America/Chicago] PHP Fatal error:  Call to undefined function impolode() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[11-Sep-2017 04:22:40 America/Chicago] PHP Fatal error:  Call to undefined function impolode() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[11-Sep-2017 04:23:57 America/Chicago] PHP Fatal error:  Call to undefined function impolode() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[11-Sep-2017 04:24:27 America/Chicago] PHP Fatal error:  Call to undefined function impolode() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 86
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[14-Sep-2017 00:46:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[14-Sep-2017 01:50:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[14-Sep-2017 05:16:14 America/Chicago] PHP Warning:  include(module/spr/detail.php): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/index.php on line 32
+[14-Sep-2017 05:16:14 America/Chicago] PHP Warning:  include(module/spr/detail.php): failed to open stream: No such file or directory in /home/syn/public_html/synthesis_result/rj-admin/index.php on line 32
+[14-Sep-2017 05:16:14 America/Chicago] PHP Warning:  include(): Failed opening 'module/spr/detail.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/syn/public_html/synthesis_result/rj-admin/index.php on line 32
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[14-Sep-2017 05:16:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[15-Sep-2017 00:07:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 25
+[15-Sep-2017 00:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 85
+[15-Sep-2017 00:09:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 84
+[15-Sep-2017 00:09:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 84
+[15-Sep-2017 00:10:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 85
+[15-Sep-2017 00:17:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 84
+[15-Sep-2017 00:18:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 86
+[15-Sep-2017 00:18:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 88
+[15-Sep-2017 00:19:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 84
+[15-Sep-2017 00:29:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET), expecting ';' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 35
+[17-Sep-2017 23:51:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[17-Sep-2017 23:51:28 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 12
+[17-Sep-2017 23:51:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[17-Sep-2017 23:51:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[17-Sep-2017 23:51:28 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 47
+[17-Sep-2017 23:51:28 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 53
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[17-Sep-2017 23:51:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[18-Sep-2017 00:09:44 America/Chicago] PHP Fatal error:  Call to undefined function str_pos() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 26
+[18-Sep-2017 00:14:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:14:06 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 12
+[18-Sep-2017 00:14:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:14:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:14:06 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 49
+[18-Sep-2017 00:14:06 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 55
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 49
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 55
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 66
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 66
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 66
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 66
+[18-Sep-2017 00:14:30 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 66
+[18-Sep-2017 00:14:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:14:58 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 12
+[18-Sep-2017 00:14:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:14:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:14:58 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 49
+[18-Sep-2017 00:14:58 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 55
+[18-Sep-2017 00:18:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:18:47 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 17
+[18-Sep-2017 00:18:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:18:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:18:47 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 54
+[18-Sep-2017 00:18:47 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 60
+[18-Sep-2017 00:19:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$patt_id' (T_VARIABLE) in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 17
+[18-Sep-2017 00:20:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:20:01 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 17
+[18-Sep-2017 00:20:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:20:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:20:01 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 54
+[18-Sep-2017 00:20:01 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 60
+[18-Sep-2017 00:21:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:21:21 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 14
+[18-Sep-2017 00:21:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:22:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:22:19 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 19
+[18-Sep-2017 00:22:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:22:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:22:19 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 56
+[18-Sep-2017 00:22:19 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 62
+[18-Sep-2017 00:22:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:22:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 19
+[18-Sep-2017 00:22:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:22:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:22:48 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 56
+[18-Sep-2017 00:22:48 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 62
+[18-Sep-2017 00:23:18 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 19
+[18-Sep-2017 00:23:18 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:23:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:23:18 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 56
+[18-Sep-2017 00:23:18 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 62
+[18-Sep-2017 00:24:12 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 20
+[18-Sep-2017 00:24:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[18-Sep-2017 00:24:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:24:12 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 57
+[18-Sep-2017 00:24:12 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 63
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 56
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 62
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'maths' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:32:39 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 56
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 62
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:00 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 56
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset 'exam_date' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 62
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset 'phy.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset 'chem.' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset 'total' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset '%' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:34:07 America/Chicago] PHP Warning:  Illegal string offset 'rank' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/edit_spr.php on line 73
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[18-Sep-2017 00:38:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[22-Sep-2017 00:59:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[27-Sep-2017 00:25:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 114
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 118
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 129
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[27-Sep-2017 01:03:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 146
+[07-Oct-2017 00:03:50 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[07-Oct-2017 00:03:50 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[07-Oct-2017 00:14:20 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[07-Oct-2017 00:14:20 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[27-Oct-2017 00:43:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Oct-2017 00:43:53 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 16
+[27-Oct-2017 00:43:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[27-Oct-2017 00:43:53 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 26
+[27-Oct-2017 00:43:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[27-Oct-2017 00:44:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[27-Oct-2017 00:44:00 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 16
+[27-Oct-2017 00:44:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[27-Oct-2017 00:44:00 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/delete_show_spr.php on line 26
+[27-Oct-2017 00:44:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 54
+[15-Nov-2017 22:52:25 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[15-Nov-2017 22:52:25 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[15-Nov-2017 22:53:11 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[15-Nov-2017 22:53:11 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[15-Nov-2017 22:53:28 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[15-Nov-2017 22:53:28 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 80
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 115
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 119
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 130
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 131
+[15-Nov-2017 22:53:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 147
+[15-Nov-2017 22:53:57 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[15-Nov-2017 22:53:57 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[15-Nov-2017 22:55:11 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[15-Nov-2017 22:55:11 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[15-Nov-2017 22:55:23 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[15-Nov-2017 22:55:23 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[17-Nov-2017 22:40:39 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[17-Nov-2017 22:40:39 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 18
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 24
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 27
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 30
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 33
+[29-Jan-2018 07:08:35 America/Chicago] PHP Warning:  Illegal string offset 'fee_submit' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 43
+[02-Feb-2018 23:07:42 America/Chicago] PHP Warning:  Illegal string offset 's_name' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 154
+[02-Feb-2018 23:07:42 America/Chicago] PHP Warning:  Illegal string offset 'batch' in /home/syn/public_html/synthesis_result/rj-admin/module/spr/show_spr.php on line 155
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 63
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  Illegal string offset 'roll' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 18
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 24
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 27
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 30
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  Illegal string offset 'paid_by' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 33
+[13-Feb-2018 05:49:35 America/Chicago] PHP Warning:  Illegal string offset 'fee_submit' in /home/syn/public_html/synthesis_result/rj-admin/module/fee/editone.php on line 43

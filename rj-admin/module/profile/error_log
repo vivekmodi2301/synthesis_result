@@ -1,0 +1,1 @@
+[11-Sep-2017 00:38:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/syn/public_html/synthesis_result/rj-admin/include/php/function.php on line 78
